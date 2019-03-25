@@ -34,3 +34,9 @@
     text-align: center;
     font-size: 2em;
 }
+
+#winner {
+    text-align: center;
+    color: blue;
+    margin-top: -40px;
+}
